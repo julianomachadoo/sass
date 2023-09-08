@@ -4,26 +4,26 @@ body {
 }
 
 .container {
-  height: 100vh;
   display: flex;
+  height: 100vh;
 }
 .container .esquerdo {
   width: 50%;
   background-color: #9400FF;
 }
 .container .esquerdo .texto {
+  color: #E4F1FF;
   margin-top: 40%;
   text-align: center;
   font-size: 150px;
-  color: #E4F1FF;
 }
 .container .direito {
   width: 50%;
   background-color: #E4F1FF;
 }
 .container .direito .texto {
+  color: #9400FF;
   margin-top: 40%;
   text-align: center;
   font-size: 150px;
-  color: #9400FF;
 }/*# sourceMappingURL=style.css.map */
